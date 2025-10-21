@@ -6,14 +6,14 @@ The app is designed to support users in self-reflection, relaxation, and emotion
 ---
 
 ## 🎥 Demo Video
-👉 [Watch the short demo here](https://streamable.com/tvojlink)
+👉 [Watch Zenlorien Demo]((https://streamable.com/odgdnl))
 
 ---
 
 ## 🖼️ Preview
-| Main Activity | Stories Activity | Journal Activity | Journal Editor Activity | Quotes Activity | About Activity
-|--------------|----------------|---------------|
-| ![screen1](link1) | ![screen2](link2) | ![screen3](link3) |
+| Main Activity | Stories Activity | Journal Activity | Journal Editor Activity | Quotes Activity | About Activity |
+|---------------|------------------|------------------|-------------------------|-----------------|----------------|
+| ![Main Activity]([link1](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/Main%20Activity.png)) | ![Stories Activity]([link2](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/Stories%20Activity.png)) | ![Quotes Activity]([link3](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/Quotes%20Activity.png)) | [Journal Activity]([link4](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/Journal%20Activity.png)) | | [Journal Editor Activity]([link5](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/Journal%20Editor%20Activity.png)) | [About Activity]([link6](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/About%20Activity.png)) |
 
 ---
 
