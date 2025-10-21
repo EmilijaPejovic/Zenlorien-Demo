@@ -13,7 +13,7 @@ The app is designed to support users in self-reflection, relaxation, and emotion
 ## 🖼️ Preview
 | Main Activity | Stories Activity | Journal Activity | Journal Editor Activity | Quotes Activity | About Activity |
 |---------------|------------------|------------------|-------------------------|-----------------|----------------|
-| ![Main Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/MainActivity.png) | ![Stories Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/StoriesActivity.png) | ![Quotes Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/QuotesActivity.png) | [Journal Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/JournalActivity.png) | | [Journal Editor Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/JournalEditorActivity.png) | [About Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/AboutActivity.png) |
+| ![Main Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/MainActivity.png) | ![Stories Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/StoriesActivity.png) | ![Quotes Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/QuotesActivity.png) | ![Journal Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/JournalActivity.png) | | ![Journal Editor Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/JournalEditorActivity.png) | ![About Activity](https://github.com/EmilijaPejovic/Zenlorien-Demo/blob/main/AboutActivity.png) |
 
 ---
 
