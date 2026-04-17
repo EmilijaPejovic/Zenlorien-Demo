@@ -1,5 +1,5 @@
 # 🌿 Zenlorien — Android application for maintaining mental health
-Zenlorien is an Android application designed to support mental well-being through journaling, guided storytelling, and daily motivation.  
+Zenlorien is an Android application designed to support mental well-being through journaling, daily motivation, and guided storytelling, developed in collaboration with a licensed psychologist.
 It helps users reflect, relax, and build healthier emotional habits through a calm and immersive experience.
 ---
 
@@ -45,6 +45,6 @@ The app demonstrates practical concepts such as local data persistence, API inte
 ## 📌 Future Improvements
 - User authentication and account management  
 - Dark mode support  
-- Push notifications for daily reminders  
+- Smart push notifications for daily engagement   
 - Migration from SQLite to Firebase or a scalable remote database  
 - Improved state management using modern Android architecture components (ViewModel, LiveData)
