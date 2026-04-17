@@ -4,7 +4,7 @@ It helps users reflect, relax, and build healthier emotional habits through a ca
 ---
 
 ## 🎥 Demo Video
-👉 **Watch the app in action:** [Demo Video](https://streamable.com/odgdnl)
+👉 **Watch the app in action:** [Demo Video](https://youtu.be/pcvf71TWBP4)
 
 ---
 
