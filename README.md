@@ -1,12 +1,10 @@
 # 🌿 Zenlorien — Android application for maintaining mental health
-Zenlorien is a personal Android app focused on mindfulness and emotional well-being.  
-It allows users to write and organize their journal entries, read motivational quotes fetched from an external API, and listen to guided fantasy stories created by a licensed psychotherapist.  
-The app is designed to support users in self-reflection, relaxation, and emotional balance.
-
+Zenlorien is an Android application designed to support mental well-being through journaling, guided storytelling, and daily motivation.  
+It helps users reflect, relax, and build healthier emotional habits through a calm and immersive experience.
 ---
 
 ## 🎥 Demo Video
-👉 [Watch Zenlorien Demo](https://streamable.com/odgdnl)
+👉 **Watch the app in action:** [Zenlorien Demo](https://streamable.com/odgdnl)
 
 ---
 
@@ -18,15 +16,35 @@ The app is designed to support users in self-reflection, relaxation, and emotion
 ---
 
 ## 💡 About the Project
-Developed as my bachelor’s thesis project in Computer Science, Zenlorien reflects my growing passion for Android development and user-centered design.  
-The app combines clean UI, CRUD operations, clear architectural structure, and a focus on mental health awareness.
+Developed as a bachelor’s thesis project in Computer Science, Zenlorien reflects my interest in Android development and user-centered design.  
+The app demonstrates practical concepts such as local data persistence, API integration, lifecycle management, and modular code organization.
+
+---
+
+## ✨ Key Features
+- 📝 **Journal system** – create, edit, search, and manage notes with SQLite (CRUD operations)
+- 🎧 **Guided stories** – audio storytelling designed for relaxation (MediaPlayer integration)
+- 💬 **Motivational quotes** – fetched from external REST API
+- 🔍 **Search & filtering** – quickly find notes
+- 🎨 **Clean UI/UX** – minimal, calming design focused on user experience
+- 🔄 **State handling & lifecycle management** – ensures smooth user experience across activity transitions
 
 ---
 
 ## 🛠️ Tech Stack
-- Java  
-- Android SDK  
-- Android Studio  
-- SQLite  
-- REST APIs  
-- XML UI Design
+- **Language:** Java  
+- **Platform:** Android SDK  
+- **Architecture:** Activity & Fragment-based navigation 
+- **Database:** SQLite  
+- **Networking:** REST API (quotes)  
+- **UI:** XML layouts  
+- **Media:** MediaPlayer (audio playback)
+
+---
+
+## 📌 Future Improvements
+- User authentication and account management  
+- Dark mode support  
+- Push notifications for daily reminders  
+- Migration from SQLite to Firebase or a scalable remote database  
+- Improved state management using modern Android architecture components (ViewModel, LiveData)
